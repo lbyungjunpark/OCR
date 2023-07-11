@@ -1,1 +1,1 @@
-https://github.com/UB-Mannheim/tesseract/wiki
+Installation : https://github.com/UB-Mannheim/tesseract/wiki
